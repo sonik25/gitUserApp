@@ -1,0 +1,10 @@
+.bg-wallpaper {
+    background: url(https://www.kustomkartel.com/wp-content/uploads/2014/10/home-page-background-temp.jpg);
+    min-height: 180px;
+}
+
+.search-form{
+    position: absolute;
+    /*left: 20%;*/
+    top: 89px;    
+}
